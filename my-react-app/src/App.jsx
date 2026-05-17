@@ -1,4 +1,4 @@
-
+import "./index.css";
 import useCounter from "./hooks/useCounter";
 
 function App() {
